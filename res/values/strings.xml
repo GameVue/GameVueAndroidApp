@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">GameVue</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_link">Link</string>
+    <string name="user_list_name">User List</string>
+    <string name="user_profile_name">User Profile</string>
+    <string name="server">http://dev.gamevue.net/</string>
+    <string name="user_avatar_gallery">User Avatars</string>
+    <string name="user_video_gallery">User Videos</string>
+    <string name="video_player">Watch Video</string>
+
+</resources>
